@@ -4,7 +4,7 @@
 -  Hi, I’m @kurapikap
 -  I’m interested in cyber security and web development
 -  I’m currently learning language C & CPP & js & css & html
--  How to reach me : <insta :merioda_su>
+-  How to reach me : "insta :merioda_su"
 
 <!---
 kurapikap/kurapikap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
