@@ -2,7 +2,7 @@
 
   
 
-### <div align="center">Full-stack developer specializing in React, DJango , building scalable and high-performance web applications.</div>  
+### <div align="center">Full-stack developer specializing in React and Django , building scalable and high-performance web applications.</div>  
   
 
   
